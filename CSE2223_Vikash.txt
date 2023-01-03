@@ -1,0 +1,18 @@
+                                                      Report Card:-  
+
+
+Name of the student : Vikash 
+Class Roll of the student : 23 
+Stream of the student : CSE 
+Your Student ID is : CSE2223
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 61 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 90 
+Marks obtained in Biology is : 67 
+Marks obtained in English is : 78 
+
+You have got 483 in total with 80%
+Excellent Performance... You have passed the exam with grade B.
+Status :- PASS

@@ -1,0 +1,18 @@
+                                                      Report Card:-  
+
+
+Name of the student : sumit 
+Class Roll of the student : 13 
+Stream of the student : CSE 
+Your Student ID is : CSE2213
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 87 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 60 
+Marks obtained in English is : 56 
+
+You have got 468 in total with 78%
+Good Performance... You have passed the exam with grade C.
+Status :- PASS
